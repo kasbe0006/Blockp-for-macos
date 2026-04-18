@@ -1,0 +1,44 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:blockp}",
+            "name": "Debug blockpmac",
+            "target": "blockpmac",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug blockpmac"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:blockp}",
+            "name": "Release blockpmac",
+            "target": "blockpmac",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release blockpmac"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:blockp}",
+            "name": "Debug BlockpMacApp",
+            "target": "BlockpMacApp",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug BlockpMacApp"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:blockp}",
+            "name": "Release BlockpMacApp",
+            "target": "BlockpMacApp",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release BlockpMacApp"
+        }
+    ]
+}

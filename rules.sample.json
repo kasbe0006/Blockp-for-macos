@@ -1,0 +1,8 @@
+{
+  "rules": [
+    { "type": "domain", "value": "instagram.com" },
+    { "type": "domain", "value": "youtube.com" },
+    { "type": "exactHost", "value": "news.ycombinator.com" },
+    { "type": "keyword", "value": "casino" }
+  ]
+}
