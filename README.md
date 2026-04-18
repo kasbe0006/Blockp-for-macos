@@ -226,3 +226,4 @@ Build on top of `CoreManager` API for new features. Core state model is fully te
 ---
 
 **Made with SwiftUI + SwiftPM.** Inspired by BlockP.
+# Blockp-for-macos
